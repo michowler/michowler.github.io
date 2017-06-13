@@ -73,6 +73,7 @@ figure {
 figure:hover+span {
 	bottom: -36px;
 	opacity: 1;
+	font-size: 70%;
 }
 
 
