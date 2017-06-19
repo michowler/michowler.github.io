@@ -63,12 +63,12 @@ figure {
 	height: 200px;
 	margin: 10px;
 	padding: 0;
-	background: #fff;
 	overflow: hidden;
 	border:solid;
 	text-align:center;
 	display: inline-block;
     float: none;
+    background-image: url(http://chandra.harvard.edu/photo/2005/sgra/sgra_onlystars.jpg) no-repeat !important;
 }
 figure:hover+span {
 	bottom: -36px;
