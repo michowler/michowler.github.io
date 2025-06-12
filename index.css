@@ -41,8 +41,7 @@ body {
   .sidenav a {font-size: 18px;}
 }
 
-
-ul {
+ol {
   display: grid;
   grid-template-rows: repeat(10, auto);
   grid-gap: 30px;
